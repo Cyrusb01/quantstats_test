@@ -2,7 +2,7 @@
 
 This is meant to be a demo and testing zone for Quantstats Package 
 
-Findings so far...
+- Findings so far...
 
 *Quantstats is great to get stats and graphs from any series of data
 *Relatively fast and has a large number of functions we can use to generate stats 
